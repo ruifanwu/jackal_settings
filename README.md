@@ -1,2 +1,2 @@
 # jackal_settings
-some settings after restore Jackal from factory state
+Some settings after restore Jackal to the factory state
